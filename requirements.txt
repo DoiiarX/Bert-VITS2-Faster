@@ -1,0 +1,39 @@
+librosa==0.9.1
+matplotlib
+numpy
+numba
+phonemizer
+scipy
+tensorboard
+Unidecode
+amfm_decompy
+jieba
+transformers
+pypinyin
+cn2an
+gradio
+av
+mecab-python3
+loguru
+unidic-lite
+cmudict
+fugashi
+num2words
+PyYAML
+requests
+pyopenjtalk; sys_platform == 'linux'
+openjtalk; sys_platform != 'linux'
+jaconv
+psutil
+GPUtil
+vector_quantize_pytorch
+g2p_en
+sentencepiece
+pykakasi
+langid
+polygraphy==0.49.0
+tensorrt==9.0.1.post11.dev4
+tensorrt-lean==9.0.1.post11.dev4
+tensorrt-dispatch==9.0.1.post11.dev4
+# onnxruntime-gpu==1.15.1
+# onnx-graphsurgeon==0.3.29
