@@ -1,5 +1,5 @@
 # Bert-VITS2-Faster
-0. original algorithm repository[Bert-VITS2](https://github.com/fishaudio/Bert-VITS2)  
+0. original algorithm repository[Bert-VITS2](https://github.com/fishaudio/Bert-VITS2)(v2.0.2) 
 1. all to trtfp16 to get 9x faster.  
 ## Using
 0. after you get your own trained model.  (train_ms.py)  
